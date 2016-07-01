@@ -9,4 +9,18 @@ para efetuar a instalação e execução da aplicação é necessário que já t
 
 é necessário fazer o clone do projeto na sua maquina através do seguinte código:
 
-git clone https://github.com/octobercms/october.git my-folder-name
+```
+git clone https://github.com/rafaelnlimaBR/GEQ_Blog my-folder-name
+```
+
+feito a clonagem, é necessário a configuração da base de dados.
+No arquivo .env altere "DB_DATABASE=seuBanco, DB_USERNAME=seuUsuario e DB_PASSWORD=sua Senha".
+após feito as configurações é necessário a importação das estrutuas e registros com o seguinte código:
+
+```
+php artisan migrate --seed
+```
+
+Pronto.
+
+Para acessar o sistema é necessário usar o usuario "rafaelnlima@live.com" senha "123".
