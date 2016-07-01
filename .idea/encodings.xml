@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/resources/views/back/post/includes/formulario.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/back/post/novo.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/back/usuario/includes/formulario.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/back/usuario/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/back/usuario/novo.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/front/home/detalhes.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/front/home/posts.blade.php" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
