@@ -29,7 +29,7 @@ class PostSeeder extends Seeder
             ],
             [
                 'titulo'            =>  'Porque Trabalhar No GEQ?',
-                'conteudo'          =>  'Poder ter a oportunidade de trabalhar no Grupo Edson de Queiroz vai me proporcionar um grande aprendizado profissional e pessoal. Poter fazer parte da história da empresa seria uma honra.',
+                'conteudo'          =>  'Poder ter a oportunidade de trabalhar no Grupo Edson de Queiroz vai me proporcionar um grande aprendizado profissional e pessoal. Poder fazer parte da história da empresa seria uma honra.',
                 'imagem'            =>  '1467396971.jpg',
                 'usuario_id'        =>  4,
                 'data_publicacao'   =>  '2016/01/01',
