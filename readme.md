@@ -20,6 +20,11 @@ após feito as configurações é necessário a importação das estrutuas e reg
 ```
 php artisan migrate --seed
 ```
+Logo após a importação da estrutura é necessário fazer a geração do key da aplicação com o seguinte codigo.
+
+```
+php artisan key:generate
+```
 
 Pronto.
 
